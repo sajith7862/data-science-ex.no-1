@@ -1,5 +1,7 @@
 #EX.NO:1
 Data Cleaning Process
+# NAME: Mohamed Hameem Sajith J
+# REF NO: 212223240090
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
